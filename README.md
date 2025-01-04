@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MarkKomodo
 - 👀 I’m interested in The Furry Fandom
 - 🌱 I’m currently learning NOTHING
-- 💞️ I’m looking to collaborate on Telegram Bots that will help out a lot of people.
 - 📫 How to reach me: https://mark-komodo.carrd.co/
 
 <!---
